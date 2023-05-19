@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(163, 120, 157);
+    font-size: 30px;
+}
+
+img{
+    margin-left: 40%;
+    height: 400px ;
+    width:  350px ;
+}
+h1{ 
+    color: chartreuse;
+    font-size: 40px;    
+}
+h2{
+    font-size: 2rem;
+}
+
+li{
+    color: green;
+}
+a{
+    color:brown;
+}
+p{
+    color: rgb(3, 59, 22);
+}
+
+.text{ 
+    color: blue;
+
+}
+.list{
+    color: rgb(21, 88, 119);
+}
